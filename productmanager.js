@@ -38,5 +38,3 @@ class Productmanager {
 }
 
 const productos = new Productmanager();
-
-console.log(productos.getproducts());
